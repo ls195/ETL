@@ -11,7 +11,7 @@ base_url = "https://api.weatherapi.com/v1/current.json?key=aBCD="      # hier Ke
 
 
 cities = ["Koeln", "Berlin", "Munich"]
-#city = "Koeln"      # current.json?key=8a4d3ad6bf844368a69144227250211&q=London&aqi=no
+
 end_url = "&aqi=no"
 
 
